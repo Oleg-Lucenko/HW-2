@@ -1,0 +1,11 @@
+
+.counter-container {
+    padding: 20px;
+    width: 150px;
+}
+
+span {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+}
